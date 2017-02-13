@@ -52,7 +52,7 @@ class LinearRegression():
         m = 0 # 初始斜率
         NumIterations = 100 # 迭代次数
 
-        data = np.array([[1, 2],[2, 3.1],[3, 6],[2.5,3.76],[0.6,1.4],[3.3,5.4]])
+        data = np.array([[1, 2],[2, 3.1],[3, 6],[2.5,3.76],[0.6,1.4],[3.3,5.4]]) # 随意输的几个点
         N = len(data)
 
         fig,ax=plt.subplots()
