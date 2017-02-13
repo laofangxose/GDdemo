@@ -16,4 +16,6 @@ or if you like, read from a .csv file(you'll need to use readfromcsv method)
 
 And you can change the hyperparameters such as learningrate and number of iterations to see how it changes.
 
-Thanks~
+---
+Special thanks to Siraj who is teaching me deep learning on Udacity.
+ 
